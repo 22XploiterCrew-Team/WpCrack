@@ -31,11 +31,11 @@ runs smoothly
 
 ### How To Use
 - Single password
-``` bash
+```bash
 python3 wp-crack.py https://site.com/wp-login.php username -p password
 ```
 
 - List password
-``` bash
+```bash
 python3 wp-crack.py https://site.com/wp-login.php username -P password.txt
 ```
