@@ -27,7 +27,7 @@ runs smoothly
 ```
 
 ### Required
-- Python3
+- Python 3.9.0
 
 ### How To Use
 - Single password
