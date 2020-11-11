@@ -1,6 +1,8 @@
 <h1 align="center">WordPress Crack<br/>Super Fast Login</h1>
 
-``` bash
+> this is the first version, we will fix any bugs that appear. so expect participation :)
+
+```
 WordPress Brute Force Super Fast Login By 22XploiterCrew
 Website : https://22xploitercrew.my.id
 E-Mail  : dev@22xploitercrew.my.id
