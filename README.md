@@ -1,5 +1,11 @@
 <h1 align="center">WordPress Crack<br/>Super Fast Login</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9.0-brightgreen">
+  <img src="https://img.shields.io/badge/Languange-English-yellowgreen">
+  <img src="https://img.shields.io/badge/License-CC-red">
+</p>
+
 > Update from version 1.1 to version 1.2
 
 ```
