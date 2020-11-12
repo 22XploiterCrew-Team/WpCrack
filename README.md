@@ -8,7 +8,8 @@ Author : RandsX@22XploiterCrew
 E-Mail : dev@22xploitercrew.my.id
 
 usage: python3 wp-crack.py url username [-p|-P] [-x PROXY] [-v VERBOSE]
-                                                                positional arguments:
+
+positional arguments:
   url               url the target
   username          username target
 
@@ -46,3 +47,6 @@ python3 wp-crack https://site.com username -P password.txt
 ```
 
 if you wish to display the password and username that was attempted to enter into the target, use option ```-v/--verbose```
+
+## Attention
+If you find an error, please report here using menu ```Issues``` or can contribute directly with us
