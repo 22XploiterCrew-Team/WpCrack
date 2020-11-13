@@ -51,6 +51,7 @@ pip3 install -r requirements.txt
 ```
 
 ## What's new in version 1.3?
+- Add tool logo
 - Detect captcha (***the system will automatically stop if the target brings up a captcha***)
 - Displays the duration of time when successful login
 
