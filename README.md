@@ -33,6 +33,11 @@ Please check your target first so that the login process runs
 smoothly
 ```
 
+## Installation
+This tool requires a module, and the module can be installed as follows:
+- ```pip3 install requests```
+- ```pip3 install colorama```
+
 ## What's new in version 1.3?
 - Detect captcha (***the system will automatically stop if the target brings up a captcha***)
 - Displays the duration of time when successful login
