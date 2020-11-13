@@ -1,4 +1,4 @@
-<h1 align="center">WordPress Crack<br/>Super Fast Login</h1>
+<h1 align="center">WordPress Cracker<br/>Super Fast Login</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9.0-brightgreen">
