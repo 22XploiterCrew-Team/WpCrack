@@ -46,7 +46,9 @@ urllib3                   1.25.11
 Please check the modules you have installed by typing ```pip3 list```, if there is a module name and version that is required then you don't need to install the module
 but if there is no required module, then type this in your terminal
 
-```pip3 install -r requirements.txt```
+```
+pip3 install -r requirements.txt
+```
 
 ## What's new in version 1.3?
 - Detect captcha (***the system will automatically stop if the target brings up a captcha***)
