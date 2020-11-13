@@ -34,9 +34,19 @@ smoothly
 ```
 
 ## Installation
-This tool requires a module, and the module can be installed as follows:
-- ```pip3 install requests```
-- ```pip3 install colorama```
+This tool requires a module, some of which are :
+```
+Package                   Version
+------------------------- ---------
+colorama                  0.4.4
+requests                  2.24.0
+urllib3                   1.25.11
+```
+
+Please check the modules you have installed by typing ```pip3 list```, if there is a module name and version that is required then you don't need to install the module
+but if there is no required module, then type this in your terminal
+
+```pip3 install -r requirements.txt```
 
 ## What's new in version 1.3?
 - Detect captcha (***the system will automatically stop if the target brings up a captcha***)
