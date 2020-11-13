@@ -1,4 +1,4 @@
-<h1 align="center">WordPress<br/>Super Fast Login</h1>
+<h1 align="center">WordPress<br/>Super Fast Login v1.3</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9.0-brightgreen">
@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/License-CC-red">
 </p>
 
-> Update from version 1.2 to version 1.3
+> Do the login process very quickly. 
+Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target
 
 ```
 WordPress Brute Force Fast Login
