@@ -5,7 +5,7 @@ _D='(http|https)://[\\w-]+(.[\\w-]+)+\\S*'
 _C=False
 _B=None
 _A=True
-import requests,re,os,__main__ as main
+import re,os,__main__ as main
 from argparse import ArgumentParser
 from concurrent.futures import ThreadPoolExecutor,as_completed
 import random
