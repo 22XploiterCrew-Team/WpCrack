@@ -39,7 +39,7 @@ def completed(password='',found=_C):
 	else:print('{}Failed to enter the target dashboard{}'.format(F.BLUE,F.WHITE))
 	print(B*(len(url)+12));print('Target   :',url);print('Username :',usr);print('Password :',password);print(B*(len(url)+12));os._exit(0)
 parser=ArgumentParser(prog=os.path.basename(main.__file__),usage='python3 %(prog)s url username [-p|-P] [-x PROXY] [-v VERBOSE]',epilog='Please check your target first so that the login process runs smoothly')
-parser.add_argument('-V','--version',action='version',version='%(prog)s version 1.2')
+parser.add_argument('-V','--version',action='version',version='%(prog)s version 1.3')
 parser.add_argument('-v','--verbose',action='store_true',help='verbose mode/show username and password combination for each attempt')
 parser.add_argument('url',type=str,help='url the target')
 parser.add_argument('username',type=str,help='username target')
