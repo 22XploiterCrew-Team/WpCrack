@@ -9,6 +9,14 @@
 > ***Do the login process very quickly.*** <br>Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target
 
 ```
+ __          __     _____                _                  
+ \ \        / /    / ____|              | |                 
+  \ \  /\  / / __ | |     _ __ __ _  ___| | __  _ __  _   _ 
+   \ \/  \/ / '_ \| |    | '__/ _` |/ __| |/ / | '_ \| | | |
+    \  /\  /| |_) | |____| | | (_| | (__|   < _| |_) | |_| |
+     \/  \/ | .__/ \_____|_|  \__,_|\___|_|\_(_) .__/ \__, |
+            | |                                | |     __/ |
+            |_|                                |_|    |___/ 
 WordPress Brute Force Fast Login
 Author : RandsX@22XploiterCrew
 E-Mail : dev@22xploitercrew.my.id
