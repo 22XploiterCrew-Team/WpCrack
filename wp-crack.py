@@ -60,7 +60,7 @@ usr=args.username
 proxy=args.proxy
 if proxy:
 	check=re.search(_D,args.proxy)
-	if check is _B:print('[{}ERROR{}] You must insert the procotol for proxy'.format(F.RED,F.WHITE));os._exit(0)
+	if check is _B:print('[{}ERROR{}] You must insert the procotol for proxy (ex: http:// or https://)'.format(F.RED,F.WHITE));os._exit(0)
 try:
 	response=requests.get(url+'/');code=response.status_code
 	if code!=200:print('[{}ERROR{}] target responds with a status code {}'.format(F.RED,F.WHITE,code));os._exit(0)
