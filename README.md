@@ -35,7 +35,7 @@ smoothly
 ```
 
 ## What's new in version 1.3?
-- Detect captcha ***the system will automatically stop if the target brings up a captcha***
+- Detect captcha (***the system will automatically stop if the target brings up a captcha***)
 - Displays the duration of time when successful login
 #### updates in previous versions
 - Fixed bugs
