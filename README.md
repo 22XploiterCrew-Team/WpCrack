@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-CC-red">
 </p>
 
-> Update from version 1.1 to version 1.2
+>> Update from version 1.1 to version 1.2
 
 ```
 WordPress Brute Force Fast Login
