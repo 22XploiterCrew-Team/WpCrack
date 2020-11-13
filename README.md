@@ -42,12 +42,12 @@ smoothly
 
 ## How to use
 The super fast login feature is only available if you guess (brute force) the target using a wordlist password.
-- Single brute
+- Single password
 ```bash
 python3 wp-crack https://site.com username -p password
 ```
 
-- Mass brute
+- List/multi passwords
 ```bash
 python3 wp-crack https://site.com username -P password.txt
 ```
