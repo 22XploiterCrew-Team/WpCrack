@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+Author : RandsX
+Team   : 22XploiterCrew
+"""
+
 _E='[{}Trying{}] {}::{}'
 _D='(http|https)://[\\w-]+(.[\\w-]+)+\\S*'
 _C=False
