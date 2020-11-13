@@ -37,12 +37,19 @@ smoothly
 ## What's new in version 1.3?
 - Detect captcha (***the system will automatically stop if the target brings up a captcha***)
 - Displays the duration of time when successful login
-#### updates in previous versions
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>Updates in previous versions "Click to view"</summary>
+
 - Fixed bugs
 - Added a proxy feature for requests
 - Using the new module ```requests``` and ```colorama```
 - Easy to use
 - Multiprocessing
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## How to use
 The super fast login feature is only available if you guess (brute force) the target using a wordlist password.
