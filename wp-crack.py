@@ -54,10 +54,10 @@ checkUrl=re.search(_D,args.url)
 if checkUrl is _B:print('[{}ERROR{}] You must insert the procotol'.format(F.RED,F.WHITE));os._exit(0)
 url=args.url
 usr=args.username
-if args.proxy:
+proxy=args.proxy
+if proxy:
 	check=re.search(_D,args.proxy)
 	if check is _B:print('[{}ERROR{}] You must insert the procotol for proxy'.format(F.RED,F.WHITE));os._exit(0)
-	else:proxy=args.proxy
 try:
 	response=requests.get(url+'/')
 	if response.status_code==429:print('[{}ERROR{}] To many requests'.format(F.RED,F.WHITE));os._exit(0)
