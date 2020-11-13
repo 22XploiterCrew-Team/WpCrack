@@ -71,7 +71,8 @@ pip3 install -r requirements.txt
 Type this in your terminal ```python3 wp-crack.py -h/--help``` for more information. <br>
 The super fast login feature is only available if you guess (brute force) the target using a wordlist password.
 - Single password
-```bash
+
+```
 Without proxy
 python3 wp-crack.py https://site.com/wp-login.php username -p password
 
@@ -80,7 +81,8 @@ python3 wp-crack.py https://site.com/wp-login.php username -p password -x http:/
 ```
 
 - List/multi passwords
-```bash
+
+```
 Without proxy
 python3 wp-crack.py https://site.com/wp-login.php username -P password.txt
 
