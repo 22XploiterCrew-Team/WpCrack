@@ -94,3 +94,5 @@ if you wish to display the password and username that was attempted to sign in i
 
 ## Attention
 If you find an error, please report here using menu ```Issues``` or can contribute directly with us
+
+<h1 align="center">DON'T FORGET TO STAR</h1>
