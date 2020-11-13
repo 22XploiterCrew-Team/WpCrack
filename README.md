@@ -35,7 +35,7 @@ smoothly
 
 ## What's new?
 - Fixed bugs
-- Added a socks/proxy feature for requests
+- Added a proxy feature for requests
 - Using the new module ```requests``` and ```colorama```
 - Easy to use
 - Multiprocessing
