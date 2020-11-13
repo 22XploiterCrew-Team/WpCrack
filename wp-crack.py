@@ -60,7 +60,7 @@ if proxy:
 	if check is _B:print('[{}ERROR{}] You must insert the procotol for proxy'.format(F.RED,F.WHITE));os._exit(0)
 try:
 	response=requests.get(url+'/')
-	if response.status_code==429:print('[{}ERROR{}] To many requests'.format(F.RED,F.WHITE));os._exit(0)
+	if response.status_code!=200:print('[{}ERROR{}] target responds with a status code {}'.format(F.RED,F.WHITE,response.status_code));os._exit(0)
 	if args.password:
 		if args.verbose:print(_E,format(F.YELLOW,F.WHITE,usr,args.password))
 		else:print('Please Wait . . .')
