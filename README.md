@@ -6,8 +6,7 @@
   <img src="https://img.shields.io/badge/License-CC-red">
 </p>
 
-> Do the login process very quickly. 
-Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target
+> ***Do the login process very quickly.*** <br>Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target
 
 ```
 WordPress Brute Force Fast Login
@@ -52,23 +51,24 @@ smoothly
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## How to use
+Type this in your terminal ```python3 wp-crack.py -h/--help``` for more information. <br>
 The super fast login feature is only available if you guess (brute force) the target using a wordlist password.
 - Single password
 ```bash
-without proxy
-python3 wp-crack https://site.com username -p password
+Without proxy
+python3 wp-crack.py https://site.com/wp-login.php username -p password
 
-with proxy
-python3 wp-crack https://site.com username -p password -x http://127.0.0.1:8000
+With proxy
+python3 wp-crack.py https://site.com/wp-login.php username -p password -x http://127.0.0.1:8000
 ```
 
 - List/multi passwords
 ```bash
-without proxy
-python3 wp-crack https://site.com username -P password.txt
+Without proxy
+python3 wp-crack.py https://site.com/wp-login.php username -P password.txt
 
-with proxy
-python3 wp-crack https://site.com username -P password.txt -x http://127.0.0.1:8000
+With proxy
+python3 wp-crack.py https://site.com/wp-login.php username -P password.txt -x http://127.0.0.1:8000
 ```
 
 if you wish to display the password and username that was attempted to sign in into the target, use option ```-v/--verbose```
