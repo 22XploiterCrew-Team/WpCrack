@@ -4,6 +4,10 @@
   <img src="https://img.shields.io/badge/Python-3.9.0-brightgreen">
   <img src="https://img.shields.io/badge/Languange-English-yellowgreen">
   <img src="https://img.shields.io/badge/License-CC-red">
+
+![Terkey](https://github-readme-stats.vercel.app/api/pin?username=RandsX&repo=Terkey&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Shell Backdoor](https://github-readme-stats.vercel.app/api/pin?username=22XploiterCrew-Team&repo=Shell-Backdoor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
 </p>
 
 > ***Do the login process very quickly.*** <br>Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target
