@@ -86,9 +86,6 @@ pip3 install -r requirements.txt
 
 ## How to use
 Type this in your terminal ```python3 wp-crack.py -h/--help``` for more information. <br>
-The super fast login feature is only available if you guess (brute force) the target using a wordlist password.
-- Single password
-
 if you wish to display the password and username that was attempted to sign in into the target, use option ```-s/--show```
 
 ## Attention
