@@ -1,4 +1,4 @@
-<h1 align="center">WordPress<br/>Super Fast Login v1.4</h1>
+<h1 align="center">WordPress<br/>Super Fast Login v1.4 (Update)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9.0-brightgreen">
