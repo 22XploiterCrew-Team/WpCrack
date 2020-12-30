@@ -67,8 +67,6 @@ pip3 install -r requirements.txt
 ```
 
 ## What's new in version 1.4?
-- Detect captcha (***the system will automatically stop if the target brings up a captcha***)
-- Displays the duration of time when successful login
 - New display
 - Change command argument
 - Add wordlist for username
@@ -79,11 +77,9 @@ pip3 install -r requirements.txt
 <details>
 <summary>Updates in previous versions "Click to view"</summary>
 
-- Fixed bugs
-- Added a proxy feature for requests
-- Using the new module ```requests``` and ```colorama```
-- Easy to use
-- Multiprocessing
+- Add logo
+- Detect captcha (***the system will automatically stop if the target brings up a captcha***)
+- Displays the duration of time when successful login
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
