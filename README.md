@@ -13,36 +13,39 @@
 > ***Do the login process very quickly.*** <br>Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target
 
 ```
- __          __     _____                _                  
- \ \        / /    / ____|              | |                 
-  \ \  /\  / / __ | |     _ __ __ _  ___| | __  _ __  _   _ 
-   \ \/  \/ / '_ \| |    | '__/ _` |/ __| |/ / | '_ \| | | |
-    \  /\  /| |_) | |____| | | (_| | (__|   < _| |_) | |_| |
-     \/  \/ | .__/ \_____|_|  \__,_|\___|_|\_(_) .__/ \__, |
-            | |                                | |     __/ |
-            |_|                                |_|    |___/ 
-WordPress Brute Force Fast Login
-Author : RandsX@22XploiterCrew
-E-Mail : dev@22xploitercrew.my.id
+_    _       _____                _
+| |  | |     /  __ \              | |
+| |  | |_ __ | /  \/_ __ __ _  ___| | __  _ __  _   _
+| |/\| | '_ \| |   | '__/ _` |/ __| |/ / | '_ \| | | |
+\  /\  / |_) | \__/\ | | (_| | (__|   < _| |_) | |_| |
+ \/  \/| .__/ \____/_|  \__,_|\___|_|\_(_) .__/ \__, |
+       | |                               | |     __/ |
+       |_|                               |_|    |___/
+Brute Force WordPress tool with fast login features and multiple login methods.
+author: 22XploiterCrew
+homepage: https://22xploitercrew.org
+github: https://github.com/22XploiterCrew-Team
 
-usage: python3 wp-crack.py url username [-p|-P] [-x PROXY] [-v VERBOSE]
-
-positional arguments:
-  url               url the target
-  username          username target
+usage: use "python3 wpcrack.py -h/--help" for more information
 
 optional arguments:
-  -h, --help        show this help message and exit
-  -V, --version     show program's version number and exit
-  -v, --verbose     verbose mode/show username and password
-                    combination for each attempt
-  -p , --password   use one word password
-  -P , --passlist   use a few words password
-  -x , --proxy      use a socks/proxy for request (ex:
-                    127.0.0.1:8080)
+  -h, --help            show this help message and exit
+  -V, --version         show program's version number and
+                        exit
+  -s, --show            show login process
+  --timeout TIMEOUT     set timed out request
+  --proxies PROXY       use a proxies in the request
+  -mt {default,xmlrpc}  method login (default "default")
 
-Please check your target first so that the login process runs
-smoothly
+target:
+  if you want to use a wordlist of each of these
+  arguments, add the letter "f" behind the argument
+  (ex: "-pf password.txt"). NOT FOR TARGET
+
+  -t , --target         target url link (ex.
+                        https://site.com/)
+  -u , --username       insert a username for the target
+  -p , --password       insert a password for the target
 ```
 
 ## Installation
