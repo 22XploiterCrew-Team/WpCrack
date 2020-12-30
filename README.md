@@ -13,7 +13,7 @@
 > ***Do the login process very quickly.*** <br>Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target
 
 ```
-_    _       _____                _
+ _    _       _____                _
 | |  | |     /  __ \              | |
 | |  | |_ __ | /  \/_ __ __ _  ___| | __  _ __  _   _
 | |/\| | '_ \| |   | '__/ _` |/ __| |/ / | '_ \| | | |
