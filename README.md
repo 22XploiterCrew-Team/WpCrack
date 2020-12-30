@@ -89,25 +89,7 @@ Type this in your terminal ```python3 wp-crack.py -h/--help``` for more informat
 The super fast login feature is only available if you guess (brute force) the target using a wordlist password.
 - Single password
 
-```
-Without proxy
-python3 wp-crack.py https://site.com/wp-login.php username -p password
-
-With proxy
-python3 wp-crack.py https://site.com/wp-login.php username -p password -x http://127.0.0.1:8000
-```
-
-- List/multi passwords
-
-```
-Without proxy
-python3 wp-crack.py https://site.com/wp-login.php username -P password.txt
-
-With proxy
-python3 wp-crack.py https://site.com/wp-login.php username -P password.txt -x http://127.0.0.1:8000
-```
-
-if you wish to display the password and username that was attempted to sign in into the target, use option ```-v/--verbose```
+if you wish to display the password and username that was attempted to sign in into the target, use option ```-s/--show```
 
 ## Attention
 If you find an error, please report here using menu ```Issues``` or can contribute directly with us
