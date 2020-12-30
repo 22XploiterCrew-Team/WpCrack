@@ -26,7 +26,7 @@ author: 22XploiterCrew
 homepage: https://22xploitercrew.org
 github: https://github.com/22XploiterCrew-Team
 
-usage: use "python3 wpcrack.py -h/--help" for more information
+usage: use "python3 wp-crack.py -h/--help" for more information
 
 optional arguments:
   -h, --help            show this help message and exit
