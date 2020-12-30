@@ -10,7 +10,7 @@
 
 </p>
 
-> ***Do the login process very quickly.*** <br>Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target. Not stable version
+> ***Do the login process very quickly.*** <br>Wordlist over 100 words only takes about 10-15 seconds if successful sign in the target. ***Not stable version***
 
 ```
  _    _       _____                _
