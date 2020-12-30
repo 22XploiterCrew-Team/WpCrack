@@ -66,10 +66,14 @@ but if there is no required module, then type this in your terminal
 pip3 install -r requirements.txt
 ```
 
-## What's new in version 1.3?
-- Add tool logo
+## What's new in version 1.4?
 - Detect captcha (***the system will automatically stop if the target brings up a captcha***)
 - Displays the duration of time when successful login
+- New display
+- Change command argument
+- Add wordlist for username
+- Double checking target
+- Multi method (default, xmlrpc)
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
