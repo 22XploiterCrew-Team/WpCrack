@@ -56,6 +56,7 @@ Package                   Version
 colorama                  0.4.4
 requests                  2.24.0
 urllib3                   1.25.11
+bs4                       0.0.1
 ```
 
 Please check the modules you have installed by typing ```pip3 list```, if there is a module name and version that is required then you don't need to install the module
