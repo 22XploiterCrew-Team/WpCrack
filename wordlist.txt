@@ -1,0 +1,11 @@
+admin
+pass
+admin1234
+admin123456
+administrator
+Administrator
+SuperAdmin
+password
+password1234
+12345678
+adminpassword
