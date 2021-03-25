@@ -27,14 +27,11 @@ optional arguments:
 target arguments:
   -t , --target     url of the target
   -u , --username   username of the target (default: admin)
-  -p , --password   password of the target (change -p to --p
-                    to use a wordlist)
+  -p , --password   password of the target (change -p to --p to use a wordlist)
 
   --timeout         timed out for requests
-  --thread          numbers of threading multiproccesor
-                    (default: 5)
-  --proxy           using a HTTP proxy (ex:
-                    http://site.com:8000)
+  --thread          numbers of threading multiproccesor (default: 5)
+  --proxy           using a HTTP proxy (ex: http://site.com:8000)
 
 Copyright © 2021 Andrew - Powered by Indonesian Darknet
 ```
