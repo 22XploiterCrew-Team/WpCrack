@@ -36,6 +36,18 @@ target arguments:
 Copyright © 2021 Andrew - Powered by Indonesian Darknet
 ```
 
+## How To Use
+
+Using a single password
+```bash
+python WpCrack.py -t http://site.com/wp-login.php -u admin -p password
+```
+
+Using a multiple password / wordlist
+```bash
+python WpCrack.py -t http://site.com/wp-login.php -u admin --p password.txt
+```
+
 ## About
 WpCrack is a tool used to force login into the WordPress CMS web application and is built in the Python programming language
 
