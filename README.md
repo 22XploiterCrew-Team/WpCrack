@@ -45,7 +45,7 @@ python WpCrack.py -t http://site.com/wp-login.php -u admin -p password
 
 Using a multiple password / wordlist
 ```bash
-python WpCrack.py -t http://site.com/wp-login.php -u admin --p password.txt
+python WpCrack.py -t http://site.com/wp-login.php -u admin --p wordlist.txt
 ```
 
 ## About
