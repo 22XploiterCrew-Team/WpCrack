@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9.2-blue)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
+![Terkey](https://github-readme-stats.vercel.app/api/pin?username=RandsX&repo=xmlrpc-brute-force-wordpress&title_color=000&icon_color=000&text_color=000000&bg_color=ffffff)
+
 > WordPress Brute Force Super Fast Login
 
 ```
