@@ -151,7 +151,7 @@ if __name__ == "__main__":
     target.add_argument("-t", "--target", dest="url", metavar="", help="url of the target", required=True)
     target.add_argument("-u", "--username", dest="usr", metavar="", default="admin", help="username of the target (default: %(default)s)")
     target.add_argument("-p", "--password", dest="pwd", metavar="", help="password of the target (change -p to --p to use a wordlist)")
-    target.add_argument("--p", dest="pwd_list", type=FileType('r'), help=SUPPRESS)
+    target.add_argument("--p", dest="pwd_list", type=FileType('r', encoding="utf-8"), help=SUPPRESS)
     request = parser.add_argument_group()
     request.add_argument("--timeout", metavar="", type=int, default=5, help="timed out for requests (default: %(default)s)")
     request.add_argument("--thread", metavar="", type=int, default=5, help="numbers of threading (default: %(default)s)")
