@@ -117,7 +117,8 @@ def login(url, username, password, timeout, proxy):
     form = "log={}&pwd={}".format(username, password)
     form = bytes(form, "utf-8")
     headers = {
-        "User-Agent" : random.choice(userAgent)
+        "User-Agent" : random.choice(userAgent),
+        "Content-Type" : "application/x-www-form-urlencoded"
     }
     
     try:
